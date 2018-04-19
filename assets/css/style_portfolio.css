@@ -1,3 +1,11 @@
+@media screen and (max-width: 640px) {
+    .navbar{
+        position: static;
+    }
+}
+
+
+
 .port-content{
     width: 100%;
     /* border: 2px solid greenyellow; */
